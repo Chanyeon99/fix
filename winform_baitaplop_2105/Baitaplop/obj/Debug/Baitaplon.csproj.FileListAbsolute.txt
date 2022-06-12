@@ -1,0 +1,145 @@
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe.config
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.exe
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\Baitaplop.pdb
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csprojResolveAssemblyReference.cache
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Chi_tiết_hóa_đơn_bán.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Chi_tiết_hóa_đơn_nhập.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Hóa_đơn_bán.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Hóa_đơn_nhập.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Khách_hàng.Khách_hàng.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.CreateUser.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.frmlogin.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Main.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Nhân_viên.Nhân_viên.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Properties.Resources.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Hãng_sx.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Loại_sản_phẩm.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Sản_phẩm.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.GenerateResource.Cache
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Nhà_cung_cấp.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\FlashControlV71.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\bin\Debug\stdole.dll
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.Báo_cáo.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.HDBcrt.resources
+C:\Users\Thanh\documents\visual studio 2015\Projects\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.HDNcrt.resources
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe.config
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\Baitaplop.pdb
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Downloads\Baitaplop\Baitaplop\bin\Debug\stdole.dll
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.AssemblyReference.cache
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.SuggestedBindingRedirects.cache
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.Báo_cáo.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.HDBcrt.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Báo_cáo.HDNcrt.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Chi_tiết_hóa_đơn_bán.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Chi_tiết_hóa_đơn_nhập.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Hóa_đơn_bán.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Hóa_đơn.Hóa_đơn_nhập.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Khách_hàng.Khách_hàng.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.CreateUser.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.frmlogin.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Main.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Nhân_viên.Nhân_viên.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Properties.Resources.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Hãng_sx.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Loại_sản_phẩm.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Nhà_cung_cấp.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Sản_phẩm.Sản_phẩm.resources
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.GenerateResource.cache
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.CoreCompileInputs.cache
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.CopyComplete
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.exe
+C:\Downloads\Baitaplop\Baitaplop\obj\Debug\Baitaplop.pdb
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\crthoadonban.rpt
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\crthoadonban.cs
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe.config
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Baitaplop.exe
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Baitaplop.pdb
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\nqo\Baitaplop.resources.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.Shared.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.Web.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\ShockwaveFlashObjects.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\stdole.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmThongKe.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmBaoCao.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.HDBcrt.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.HDNcrt.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmCTHDBan.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmCTHDNhap.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmHoaDonBan.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmHoaDonNhap.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmKhachHang.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmMain.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.CreateUser.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmlogin.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmQLNhanVien.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.ToastDialog.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Properties.Resources.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmQLSP_HSX.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmQLSP_LSP.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmQLSP_NCC.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmQLSP.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.frmlogin.nqo.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.GenerateResource.cache
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\nqo\Baitaplop.resources.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.CopyComplete
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.exe
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.pdb
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.AssemblyReference.cache
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplop.Forms.ThongKecrt.resources
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\RdlCompile.cache
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\RdlCompile.compiled
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zalo Received Files\Baitaplop\Baitaplop\obj\Debug\Baitaplon.csproj.ResolveComReference.cache

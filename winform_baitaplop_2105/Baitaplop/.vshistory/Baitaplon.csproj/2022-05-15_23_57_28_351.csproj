@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F020840-FCE5-4C32-9565-26F1AC37FD6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Baitaplop</RootNamespace>
+    <AssemblyName>Baitaplop</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Báo cáo\Báo cáo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Báo cáo\Báo cáo.Designer.cs">
+      <DependentUpon>Báo cáo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Báo cáo\HDBcrt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Báo cáo\HDBcrt.Designer.cs">
+      <DependentUpon>HDBcrt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Báo cáo\HDNcrt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Báo cáo\HDNcrt.Designer.cs">
+      <DependentUpon>HDNcrt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataaBase.cs" />
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="Model\UserInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="crthoadonban.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crthoadonban.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crthoadonnhap.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crthoadonnhap.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hoadon.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>hoadon.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hóa đơn\Chi tiết hóa đơn bán.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hóa đơn\Chi tiết hóa đơn bán.Designer.cs">
+      <DependentUpon>Chi tiết hóa đơn bán.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hóa đơn\Chi tiết hóa đơn nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hóa đơn\Chi tiết hóa đơn nhập.Designer.cs">
+      <DependentUpon>Chi tiết hóa đơn nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hóa đơn\Hóa đơn bán.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hóa đơn\Hóa đơn bán.Designer.cs">
+      <DependentUpon>Hóa đơn bán.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hóa đơn\Hóa đơn nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hóa đơn\Hóa đơn nhập.Designer.cs">
+      <DependentUpon>Hóa đơn nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Khách hàng\Khách hàng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Khách hàng\Khách hàng.Designer.cs">
+      <DependentUpon>Khách hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\CreateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\CreateUser.Designer.cs">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\frmlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmlogin.Designer.cs">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nhân viên\Nhân viên.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nhân viên\Nhân viên.Designer.cs">
+      <DependentUpon>Nhân viên.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sản phẩm\Hãng sản xuất.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản phẩm\Hãng sản xuất.Designer.cs">
+      <DependentUpon>Hãng sản xuất.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sản phẩm\Loại sản phẩm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản phẩm\Loại sản phẩm.Designer.cs">
+      <DependentUpon>Loại sản phẩm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sản phẩm\Nhà cung cấp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản phẩm\Nhà cung cấp.Designer.cs">
+      <DependentUpon>Nhà cung cấp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sản phẩm\Sản phẩm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sản phẩm\Sản phẩm.Designer.cs">
+      <DependentUpon>Sản phẩm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Báo cáo\Báo cáo.resx">
+      <DependentUpon>Báo cáo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Báo cáo\HDBcrt.resx">
+      <DependentUpon>HDBcrt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Báo cáo\HDNcrt.resx">
+      <DependentUpon>HDNcrt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crthoadonban.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crthoadonban.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crthoadonnhap.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crthoadonnhap.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hóa đơn\Chi tiết hóa đơn bán.resx">
+      <DependentUpon>Chi tiết hóa đơn bán.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hóa đơn\Chi tiết hóa đơn nhập.resx">
+      <DependentUpon>Chi tiết hóa đơn nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hóa đơn\Hóa đơn bán.resx">
+      <DependentUpon>Hóa đơn bán.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hóa đơn\Hóa đơn nhập.resx">
+      <DependentUpon>Hóa đơn nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Khách hàng\Khách hàng.resx">
+      <DependentUpon>Khách hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\CreateUser.resx">
+      <DependentUpon>CreateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmlogin.nqo.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmlogin.resx">
+      <DependentUpon>frmlogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nhân viên\Nhân viên.resx">
+      <DependentUpon>Nhân viên.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sản phẩm\Hãng sản xuất.resx">
+      <DependentUpon>Hãng sản xuất.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sản phẩm\Loại sản phẩm.resx">
+      <DependentUpon>Loại sản phẩm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sản phẩm\Nhà cung cấp.resx">
+      <DependentUpon>Nhà cung cấp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sản phẩm\Sản phẩm.resx">
+      <DependentUpon>Sản phẩm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="hoadon.xsc">
+      <DependentUpon>hoadon.xsd</DependentUpon>
+    </None>
+    <None Include="hoadon.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>hoadon.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="hoadon.xss">
+      <DependentUpon>hoadon.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
